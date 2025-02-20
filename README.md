@@ -29,7 +29,7 @@
   </div>
   <div class="button">
     <button>
-      <a href="flower.html">click meh :D</a>
+      <a href="flower.html">click me :D</a>
     </button>
 
   </div>
